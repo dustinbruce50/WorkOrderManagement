@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WOM.Server", "WOM.Server\WOM.Server.csproj", "{DD503766-C6D9-4A38-B1F3-2E475578414D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "wom.client", "wom.client\wom.client.esproj", "{71C08A6F-E04F-451B-A209-78A5D75AA131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD503766-C6D9-4A38-B1F3-2E475578414D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD503766-C6D9-4A38-B1F3-2E475578414D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD503766-C6D9-4A38-B1F3-2E475578414D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD503766-C6D9-4A38-B1F3-2E475578414D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C08A6F-E04F-451B-A209-78A5D75AA131}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6DCA4E-2628-4419-8A61-448F6C6F3B10}
+	EndGlobalSection
+EndGlobal
